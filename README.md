@@ -28,7 +28,7 @@ Para más info: https://developer.android.com/training/auto/start/index.html
 ## Funcionamiento
 
 - Se arranca el simulador de Android Auto (en caso de que se use el simulador)
-- Se arranca la app (este proyecto), y se gnerarán las notificaciones de forma automatica.
+- Se arranca la app (este proyecto), y se generarán las notificaciones de forma automatica.
 - Se vuelve a lanzar el simulador (en caso de que se use el simulador)
 - Se pueden observar las notificaciones de la app en Android Auto. Si se pincha en ellas se podrá escuchar una voz que las leerá.
 - Se puede pulsar el botón de responder y se enviará una respuesta preconfigurada a la app desde el Simulador. Si es el dispositivo real, se podrá responder mediante la voz.
