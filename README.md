@@ -9,13 +9,13 @@ Aplicación de Mensajería de ejemplo para el Taller de Android Auto
 
 <a href="http://www.gdgtenerife.com">
   <p align="center">
-    <img alt="GDG Tenerife" src="http://andensinlimite.org/wp-content/uploads/2014/11/unnamed.png" />
+    <img alt="GDG Tenerife" src="https://pbs.twimg.com/profile_images/3780983504/b4305750dd053ab37dc5e724240f7225_400x400.png" height="250" width="250" />
   </p>
 </a>
 
 <a href="http://tlp-tenerife.com/tlpinnova/desarrolladores/">
   <p align="center">
-    <img alt="TLP" src="http://elcholloinformatico.com/wp-content/uploads/2015/05/TLP_vertical.png" height="535" width="390" />
+    <img alt="TLP" src="http://tlp-tenerife.com/wp-content/uploads/2015/05/TLP_Tenerife_vertical.png" height="535" width="390" />
   </p>
 </a>
 
